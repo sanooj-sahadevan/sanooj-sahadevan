@@ -3,13 +3,13 @@
 <h2 align="center"><samp>Hi 👋 I'm Sanooj S</samp></h2>
 <h3 align="center"><samp>A MERN stack developer from India</samp> </h3>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sanooj10/images/main/gif/mario-working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanooj-sahadevan&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanooj-sahadevan&label=Profile%20views&color=0e75b6&style=flat" alt="sanooj10" /> </p>
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/sugith10/</samp>
+<samp>- 📫 Reach me at https://www.linkedin.com/in/sanusahadev/</samp>
 
 <samp>- 📫 Reach me at sanusahadev007@gmail.com</samp>
 
